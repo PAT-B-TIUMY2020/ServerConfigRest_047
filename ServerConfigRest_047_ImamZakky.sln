@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerConfigRest_047_ImamZakky", "ServerConfigRest_047_ImamZakky\ServerConfigRest_047_ImamZakky.csproj", "{25DE4B8A-A9C1-4863-86A4-5553320A3094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DE4B8A-A9C1-4863-86A4-5553320A3094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DE4B8A-A9C1-4863-86A4-5553320A3094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DE4B8A-A9C1-4863-86A4-5553320A3094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DE4B8A-A9C1-4863-86A4-5553320A3094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D4F687-F6A3-48DF-87B4-77B00C975D21}
+	EndGlobalSection
+EndGlobal
